@@ -1,0 +1,4 @@
+site_name: PixelTours AVP
+pages:
+- [index.md, Home]
+theme: flatly
