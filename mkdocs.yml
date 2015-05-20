@@ -1,4 +1,5 @@
 site_name: PixelTours AVP
 pages:
 - [index.md, Home]
+- [playbook.md, Playbook]
 theme: flatly
